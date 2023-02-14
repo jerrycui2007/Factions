@@ -1,16 +1,4 @@
-"""
-Copyright Jerry Cui 2019. All rights reserved. Factions and Factions Premium are all registered trademarks of Jerry
-Studios Inc. Do not distribute!
-
-Factions v0.1
-
----------------
-
-*Note to modders: If you are making a mod, please go to line 229, where it says root.title("Factions v0.1") and change
-it to root.title("Factions v0.1 (Modded))
-
-The first version of Factions is now out! Factions v0.1 is now availible for download!
-"""
+# Factions by Jerry Cui
 
 # import modules needed
 from tkinter import *
